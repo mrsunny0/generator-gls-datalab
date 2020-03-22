@@ -1,0 +1,5 @@
+# ignore pure python paths for lambda layer generation
+python
+
+# 
+.vscode*
